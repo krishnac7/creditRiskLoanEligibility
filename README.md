@@ -1,4 +1,4 @@
-Problem statement: find out if a user into either eligible or not eligible for loan ,given the following data
+Problem statement: find out if a user is either eligible or not eligible for loan ,given the following data
 
 [ Download Full dataset ](https://github.com/IBMDevConnect/RBSHack2018/raw/master/hackdata/hack_data_v1.zip)
 # Understanding the dataset
