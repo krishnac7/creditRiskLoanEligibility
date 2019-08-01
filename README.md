@@ -46,9 +46,7 @@ the following list explains what each row stands for
 * acc_now_delinq is the number of accounts on which the borrower is now delinquent. Int.
 * tot_coll_amt is the total collection amounts ever owed.
 * tot_cur_bal is the total current balance of all accounts. total_rev_hi_lim is the total revolving high credit/credit limit.
-* loan_status is the current status of the loan.
-
-# Actions performed
+* loan_status is the current status of the loan
 
 * Remove ['member_id', 'batch_enrolled', 'desc']
 * Integer encode: ['emp_length', 'delinq_2yrs', 'inq_last_6mths', 'mths_since_last_delinq', 'mths_since_last_record', 'pub_rec', 'total_acc', 'open_acc', 'collections_12_mths_ex_med', 'acc_now_delinq', 'last_week_pay']
