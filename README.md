@@ -2,7 +2,7 @@ Problem statement: find out if a user is either eligible or not eligible for loa
 
 [ Download Full dataset ](https://github.com/IBMDevConnect/RBSHack2018/raw/master/hackdata/hack_data_v1.zip)
 # Understanding the dataset
-the following list explains what each row stands for
+the following list explains what each column stands for
 * member_id is a personal identifier, do not want to include this in modeling.
 * loan_amnt is the listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.
 * funded_amnt is the total amount committed to that loan at that point in time.
